@@ -1,0 +1,22 @@
+h1, h2, p{
+    text-align:center;
+    color:rgb(155, 12, 12);
+}
+.header{
+    background-color:rgb(216, 230, 31);
+    display:flex;
+    justify-content:space-between;
+}
+/* .menu{
+    display:flex;
+    flex-wrap:wrap;
+} */
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
